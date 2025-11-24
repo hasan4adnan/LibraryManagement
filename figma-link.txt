@@ -1,0 +1,10 @@
+https://www.figma.com/make/9Aig9AC8o3ofvUD7ZIiaYs/Library-Management-System-Dashboard-Dark-theme?node-id=0-1&p=f&t=DchBICIHyKADXAvZ-0&fullscreen=1
+
+https://www.figma.com/make/ROxZ69pKYgySaRkopegUjs/Library-Management-System-Dashboard-Light-Theme?node-id=0-1&p=f&t=zyHn6S9mBWUuE0pc-0&fullscreen=1
+
+https://www.figma.com/make/OGU81uorhQaDayfRmsi5BF/Library-Management-System-My-Books?node-id=0-1&p=f&t=1P933KACMv51ETBW-0&fullscreen=1
+
+https://www.figma.com/make/gPZPjp3kwcLFdEEmidag0O/Library-Management-System-Librarian-Dashboard?node-id=0-1&p=f&t=NVLxoUtF8HCfswaM-0&fullscreen=1
+
+https://www.figma.com/make/qGx1CO0ap3ZOIBaRClmUCw/Library-Management-System-Login-Screen?node-id=0-1&p=f&t=069gdEwKyRfzwALi-0&fullscreen=1
+
