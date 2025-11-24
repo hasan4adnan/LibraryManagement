@@ -1,0 +1,56 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --light-bg: #F8F9FB;
+  --light-panel: #FFFFFF;
+  --light-border: #E5E7EB;
+  --light-text: #111827;
+  --light-primary: #3B5AFF;
+
+  --dark-bg: #0E1117;
+  --dark-panel: #161B22;
+  --dark-border: #2D333B;
+  --dark-text: #E5E7EB;
+  --dark-primary: #3B82F6;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html,
+body {
+  max-width: 100vw;
+  overflow-x: hidden;
+}
+
+body {
+  @apply bg-light-bg dark:bg-dark-bg text-light-text dark:text-dark-text;
+  transition: background-color 0.2s, color 0.2s;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-light-bg dark:bg-dark-bg;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-gray-300 dark:bg-gray-700 rounded-full;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-gray-400 dark:bg-gray-600;
+}
+
