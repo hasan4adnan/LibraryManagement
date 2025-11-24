@@ -89,6 +89,12 @@ npm start
 - Text: `#E5E7EB`
 - Primary: `#3B82F6`
 
+## Authors
+
+- **Mert Temiz** – 220706003
+- **Hasan Muayad Adnan Alsaedi** – 220706802
+- **Erden Dinç** – 220706045
+
 ## License
 
 MIT
